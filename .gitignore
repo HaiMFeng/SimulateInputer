@@ -1,0 +1,15 @@
+# 构建输出
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+
+# 系统文件
+Thumbs.db
+Desktop.ini
